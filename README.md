@@ -1,3 +1,5 @@
+# Sabor Caseiro — app de culinária (Jetpack Compose)
+
 [README.md](https://github.com/user-attachments/files/33222844/README.md)[Uploading R# Sabor Caseiro — app de culinária (Jetpack Compose)
 
 Trabalho 2 — MAF (Mínimo Aplicativo Funcional) da disciplina Desenvolvimento de Aplicativos Móveis (Kotlin + Jetpack Compose).
